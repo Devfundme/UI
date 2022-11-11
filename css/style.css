@@ -284,6 +284,7 @@ h6,
 .accordion .accordion-button {
     background: var(--light);
     border-radius: 2px;
+    color: var(--primary);
 }
 
 .accordion .accordion-button:not(.collapsed) {
